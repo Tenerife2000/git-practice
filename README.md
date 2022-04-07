@@ -1,0 +1,3 @@
+# git-practice
+
+YOU MUST PRACTICE GIT IF YOU WANT TO BE A GOOD DEV. !!! 
